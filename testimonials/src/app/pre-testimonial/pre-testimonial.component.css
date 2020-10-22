@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;900&display=swap');
+
+#container1 {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.about {
+  float: left;
+}
+
+#heading {
+  color: tomato;
+  font-size: 40px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#aboutid {
+  width: 390px;
+  margin-left: 40px;
+}
+
+#imgid {
+  width: 100px;
+  margin-left: 300px;
+}
+
+#aboutprograd {
+  font-weight: 350px;
+  font-size: 20px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#mission {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#hatchtag {
+  color: tomato;
+  font-weight: 350px;
+  font-size: 20px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+#container2{
+    width: 900px;
+    margin-left: 50px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.insidecontainer{
+    margin-top: 50px;
+    margin-left: 80px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.insidefloat{
+    float: left;
+}
